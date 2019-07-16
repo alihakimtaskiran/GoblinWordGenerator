@@ -40,6 +40,11 @@ cd GoblinWordGenerator
 ```
 python3 goblin.py
 ```
+or
+
+```
+python3 boosted.py
+```
 
 ### SCREENSHOT
 ![Shot](https://github.com/UndeadSec/GoblinWordGenerator/blob/master/sc.png)
