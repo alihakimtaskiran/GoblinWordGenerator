@@ -26,6 +26,12 @@ Telegram: <a href="https://t.me/un00mz">@SamJunior</a>
 
 * **Ubuntu - 16.04.3 LTS**
 
+* **Ubuntu MATE - 18.04.2 LTS**
+
+* **Windows - 7**
+
+* **Windows - 10**
+
 ### CLONE
 ```
 git clone https://github.com/UndeadSec/GoblinWordGenerator.git
